@@ -1,0 +1,55 @@
+[{
+	"expect_next": "2018-03-27T19:02:00.606-06:00",
+	"id": "f573e310-30f4-43c9-900a-2e98180696f2",
+	"instance_id": "e4c1ae38-ca6e-4c24-9e96-1e3cb0c4d67a",
+	"timestamp": "2018-03-28T00:51:00.601Z"
+}, {
+	"expect_next": "2018-03-27T18:52:00.577-06:00",
+	"id": "5eb4e2b2-4e4e-401e-b61a-933b1d631c45",
+	"instance_id": "e4c1ae38-ca6e-4c24-9e96-1e3cb0c4d67a",
+	"timestamp": "2018-03-28T00:41:00.571Z"
+}, {
+	"expect_next": "2018-03-27T18:42:00.54-06:00",
+	"id": "1086c946-2a27-4c00-8142-e5e3f2d10c50",
+	"instance_id": "e4c1ae38-ca6e-4c24-9e96-1e3cb0c4d67a",
+	"timestamp": "2018-03-28T00:31:00.537Z"
+}, {
+	"expect_next": "2018-03-27T18:32:00.51-06:00",
+	"id": "5dd2a2b3-bba9-4efd-9e65-5163a4b8887d",
+	"instance_id": "e4c1ae38-ca6e-4c24-9e96-1e3cb0c4d67a",
+	"timestamp": "2018-03-28T00:21:00.506Z"
+}, {
+	"expect_next": "2018-03-27T18:22:00.489-06:00",
+	"id": "ee6123b5-2273-4e05-88a2-434ff2bd97af",
+	"instance_id": "e4c1ae38-ca6e-4c24-9e96-1e3cb0c4d67a",
+	"timestamp": "2018-03-28T00:11:00.485Z"
+}, {
+	"expect_next": "2018-03-27T18:12:00.459-06:00",
+	"id": "a8f57abb-a156-432d-97ea-77afabe168ef",
+	"instance_id": "e4c1ae38-ca6e-4c24-9e96-1e3cb0c4d67a",
+	"timestamp": "2018-03-28T00:01:00.456Z"
+}, {
+	"data": {
+		"arch": "amd64",
+		"caddy_version": "(untracked dev build)",
+		"cpu": {
+			"aes_ni": true,
+			"brand_name": "Intel(R) Core(TM) i7-7820HQ CPU @ 2.90GHz",
+			"num_logical": 8
+		},
+		"directives": [{
+			"count": 1,
+			"value": "root"
+		}],
+		"http_deployment_guess": "dev",
+		"http_num_sites": 1,
+		"num_listeners": 1,
+		"num_server_blocks": 1,
+		"os": "darwin",
+		"server_type": "http"
+	},
+	"expect_next": "2018-03-27T18:02:00.349-06:00",
+	"id": "339e8080-0d73-4583-a0e8-f01f604fcb8c",
+	"instance_id": "e4c1ae38-ca6e-4c24-9e96-1e3cb0c4d67a",
+	"timestamp": "2018-03-27T23:51:00.341Z"
+}]
